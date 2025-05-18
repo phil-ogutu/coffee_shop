@@ -40,7 +40,7 @@ The goal is to demonstrate OOP concepts including:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-private-repo-url>
+git clone https://github.com/phil-ogutu/coffee_shop.git
 cd coffee_shop
 ```
 
